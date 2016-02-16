@@ -1,3 +1,3 @@
 name: _Website Trials
 basepath: /_WebsiteTrials
-permalink: {{ basepath }}/blog/:year/:month/:day/:title
+permalink: /_WebsiteTrials/blog/:year/:month/:day/:title
