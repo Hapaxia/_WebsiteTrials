@@ -1,2 +1,2 @@
 name: _Website Trials
-permalink: /blog/:year/:month/:day/:title
+permalink: /path/blog/:year/:month/:day/:title
